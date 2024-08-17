@@ -1,4 +1,8 @@
 # Exno:1
+
+NAME:RAMYA.P
+REGISTER NUMBER:2122223240137
+
 Data Cleaning Process
 
 # AIM
